@@ -2,8 +2,8 @@
 
 # There are 2 projects :
 
-1.coffee_shop_template - starter project
-2.coffee_shop_final - final project
+1. coffee_shop_template - starter project
+2. coffee_shop_final - final project
 
 # Resorces :
 
@@ -30,6 +30,11 @@ Get Bootstrap: https://getbootstrap.com/
 Bootstrap 4 Cheat Sheet https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
 
 font awesome: https://www.bootstrapcdn.com/fontawesome/
+
+## CSS 
+Learn CSS layout - https://learnlayout.com/display.html
+Fonts: https://fonts.google.com
+https://www.w3schools.com/css
 
 ## Images links
 
